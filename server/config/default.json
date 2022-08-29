@@ -1,0 +1,25 @@
+{
+  "PORT": 8081,
+  "DB_NAME": "phone_numbers",
+  "DB_USER": "postgres",
+  "DB_PASSWORD": "root",
+  "DB_HOST": "localhost",
+  "DB_PORT": 5432,
+  "countryCode": [
+    {
+      "country": "Russia",
+      "combination": "+7",
+      "color": "primary"
+    },
+    {
+      "country": "Uzbekistan",
+      "combination": "+998",
+      "color": "warning"
+    },
+    {
+      "country": "Belarus",
+      "combination": "+375",
+      "color": "success"
+    }
+  ]
+}
